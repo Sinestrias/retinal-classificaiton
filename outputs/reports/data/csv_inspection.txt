@@ -1,0 +1,31 @@
+CSV INSPECTION
+Shape: (9868, 22)
+Missing image files: 0
+
+Top NA columns:
+ID                           3476
+Patient Age                  3476
+Patient Sex                  3476
+Left-Fundus                  3476
+Right-Fundus                 3476
+Left-Diagnostic Keywords     3476
+Right-Diagnostic Keywords    3476
+N                            3476
+D                            3476
+G                            3476
+C                            3476
+A                            3476
+H                            3476
+M                            3476
+O                            3476
+
+Class distribution:
+class_code
+N    3230
+D    1608
+G    1071
+M    1036
+C     897
+O     888
+A     708
+H     430
